@@ -1,4 +1,4 @@
-# Wazuh-SOAR-project
+# SOC Automation LAB
 
 
 ## PROJECT OBJECTIVE
