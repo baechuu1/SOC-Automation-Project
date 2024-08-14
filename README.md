@@ -32,10 +32,42 @@ To gain hands-on experience in implementing various security tools for SOC Autom
 
 
 
-### SOC Automation Lab diagram
+
+1. ### SOC Automation Lab diagram
 
 
-<img width="700" alt="SOC Automation lab diagram" src="https://github.com/user-attachments/assets/b9290be3-8f81-4321-b794-3ba75d5fb658">
+<img width="600" alt="SOC Automation lab diagram" src="https://github.com/user-attachments/assets/b9290be3-8f81-4321-b794-3ba75d5fb658">
+
+
+2. #### Rule defined to detect Mimikatz 
+
+
+![Screenshot 2024-08-14 094214](https://github.com/user-attachments/assets/2b997627-5d65-4905-8f94-8205ae46ecab)
+
+
+3. #### Mimikatz detected even if the file name has been changed due to the OriginialFileName rule
+
+
+![Screenshot 2024-08-14 094437](https://github.com/user-attachments/assets/f336f35a-f50b-46dc-9075-4cce26cc623e)
+
+
+4. #### Shuffle Workflow
+
+
+![Screenshot 2024-08-14 143532](https://github.com/user-attachments/assets/99b60bbf-aa9d-43ad-b168-c06bfde05709)
+
+
+5. #### Alert is created in The hive
+
+
+
+![Screenshot 2024-08-14 113756](https://github.com/user-attachments/assets/4b579c63-9cf4-4dbf-a0ef-4a3b294b9b11)![Screenshot 2024-08-14 113728](https://github.com/user-attachments/assets/3c701b7e-b978-4918-9d5a-cbc054bad189)
+
+
+6. #### Email is sent to SOC Analyst
+
+
+![Screenshot 2024-08-14 135820](https://github.com/user-attachments/assets/ed04b02d-2c9b-45f5-9032-766195843413)
 
 
 
