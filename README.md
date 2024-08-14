@@ -16,7 +16,7 @@ To gain hands-on experience in implementing various security tools for SOC Autom
 - Digital Ocean: A cloud infrastructure provider offering scalable virtual servers (droplets) and other cloud-based services for deploying and managing applications.
 - The VirusTotal: A free online service that analyzes files and URLs for malware and security threats using multiple antivirus engines and other security tools.
 
-## Skills Gained
+## SKILLS GAINED
 
 - SIEM Configuration and Management: Configured and managed Wazuh SIEM for centralized log management and security event analysis.
 
@@ -31,9 +31,9 @@ To gain hands-on experience in implementing various security tools for SOC Autom
 - Data Correlation and Event Analysis: Correlated security events from multiple sources to gain a comprehensive view of potential threats.
 
 
+## OUTCOME
 
-
-1. ### SOC Automation Project diagram
+1. #### SOC Automation Project diagram
 
 
 <img width="600" alt="SOC Automation lab diagram" src="https://github.com/user-attachments/assets/b9290be3-8f81-4321-b794-3ba75d5fb658">
