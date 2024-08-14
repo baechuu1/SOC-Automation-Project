@@ -1,4 +1,4 @@
-# SOC Automation LAB
+# SOC Automation Project
 
 
 ## PROJECT OBJECTIVE
@@ -33,7 +33,7 @@ To gain hands-on experience in implementing various security tools for SOC Autom
 
 
 
-1. ### SOC Automation Lab diagram
+1. ### SOC Automation Project diagram
 
 
 <img width="600" alt="SOC Automation lab diagram" src="https://github.com/user-attachments/assets/b9290be3-8f81-4321-b794-3ba75d5fb658">
