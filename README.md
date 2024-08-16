@@ -3,8 +3,7 @@
 
 ## PROJECT OBJECTIVE
 
-To gain hands-on experience in implementing various security tools for SOC Automation to detect ongoing threats as a SOC analyst. 
-
+To gain practical, hands-on experience in implementing and integrating various security tools for SOC Automation project. The goal is to enhance SOC automation capabilities, enabling more efficient detection, analysis, and response to ongoing threats. As a SOC analyst, the project focuses on configuring and managing an open-source SIEM platform (Wazuh) to centralize log management and security event analysis, automating threat detection and incident response workflows using Shuffle, and utilizing TheHive for coordinated incident management.
 
 ## TOOlS
 
