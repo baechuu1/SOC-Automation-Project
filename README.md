@@ -1,4 +1,9 @@
-# SOC Automation Project
+# SOC Automation Project 
+![image](https://github.com/user-attachments/assets/3b4bdbb9-0125-4794-8ef4-e30ba53bf53d) ![image](https://github.com/user-attachments/assets/4a42b8ed-0518-4f50-9123-a259cc58cdf8)![image](https://github.com/user-attachments/assets/447ef608-10fb-41dd-a809-c00fdf6cabad) 
+
+
+
+
 
 
 ## PROJECT OBJECTIVE
